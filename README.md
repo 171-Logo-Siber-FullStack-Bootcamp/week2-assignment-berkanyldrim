@@ -1,3 +1,22 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6993272&assignment_repo_type=AssignmentRepo)
-# week2-assignment
-Derste yapılan yapı tekrar kurgulanacak.
+
+# Logo Cyber Security Full Stack Bootcamp Homework-2
+
+In this assignment, we created an express api using data from todos ,posts and users on https://jsonplaceholder.typicode.com
+<br>
+<br>
+##  Download Project
+
+<br>
+To download the project into a file or directly to the desktop. (Don't forget that Git version is installed.)
+
+```bash 
+  https://github.com/171-Logo-Siber-FullStack-Bootcamp/week2-assignment-berkanyldrim.git
+```
+
+## Authors and Acknowledgments
+
+- [@berkanyldrim](https://www.github.com/berkanyldrim) for design and development.
+
+## Licence
+
+[MIT](https://choosealicense.com/licenses/mit/)
